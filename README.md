@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` file for your Java File Encryption and Decryption project:
-
----
-
 # File Encryptor/Decryptor 🔐
 
 This Java-based application provides a simple, secure way to encrypt and decrypt files using the **AES (Advanced Encryption Standard)** algorithm. With both **command-line** and **graphical user interfaces (GUI)**, this tool is perfect for developers and non-developers alike who need to protect their sensitive files.
