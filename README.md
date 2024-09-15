@@ -98,12 +98,6 @@ This Java-based application provides a simple, secure way to encrypt and decrypt
 
 ---
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to contribute, report bugs, or suggest features on the [GitHub Repository](https://github.com/GAP-Pathum/en-de-cryptor.git). 
 
 Happy Encrypting and Decrypting! 😄
